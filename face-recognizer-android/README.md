@@ -1,6 +1,6 @@
 # Realtime Face Recognizer
 
-This sample demonstrates realtime face recognition on Android. The project is based on the [FaceNet](https://arxiv.org/abs/1503.03832).
+A face recognition app that will help a person with vision disabiltiy. This app will help the person with disabiltiy to identify the person. The app is based on the [FaceNet](https://arxiv.org/abs/1503.03832).
 
 ## Inspiration
 The project is heavily inspired by
