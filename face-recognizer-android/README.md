@@ -1,4 +1,4 @@
-# Realtime Face Recognizer
+# Face Recognizer for blind
 
 A face recognition app that will help a person with vision disabiltiy. This app will help the person with disabiltiy to identify the person. The app is based on the [FaceNet](https://arxiv.org/abs/1503.03832).
 
