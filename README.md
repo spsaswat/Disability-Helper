@@ -5,7 +5,7 @@ There are five apps which have been made to help people with disability.
 <br>3) Speak Helper (Person with speaking disability) - Help people convey a message by converting typed text into audio output using tts.
 <br>4) Notes taker (Handicapped) - This app helps people take notes from their voice using tts.
 
-This project won the <b>android owasp hackathon sponsored by <a href="https://www.hackerrank.com/">HackerRank</a> and <a href="https://www.k7computing.com/">K7</a> Security</b> held on february 14th and 15th. This project is a result of team work.
+This project won the <b>android-owasp hackathon sponsored by <a href="https://www.hackerrank.com/">HackerRank</a> and <a href="https://www.k7computing.com/">K7</a> Security</b> held on february 14th and 15th. This project is a result of team work.
 
 
 
